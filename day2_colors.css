@@ -1,0 +1,37 @@
+.testing{
+    background-color: rgb(18, 104, 154);
+    padding:19px;
+    font-family: sans-serif;
+    font-weight: bold;
+    border-radius: 7px;
+}
+#links{
+    color: rgba(255,255,255,0.7);
+    padding-right: 30px;
+    text-decoration: none;
+}
+#links:hover{
+    color: rgb(255,255,255);
+    text-decoration: underline;
+
+}
+h1{
+    color: rgb(10,29,90);
+}
+h2{
+    color: #f7cc54;
+}
+h3{
+    color: rgba(71,1,50,0.4);
+}
+.images{
+    background-color: transparent;
+}
+body{
+   /* background-image: url("pngtree-indoor-plant-flowerpot-png-image_11669796.png"); */
+ /*   background-repeat: no-repeat;
+    background-attachment: cover;
+    background-position: right bottom;
+    background-color: rgb(48,48,48); */
+    background: rgb(73, 73, 73) url(Spring_Growing_Plant_PNG_Transparent_Clipart.png) no-repeat right top fixed;
+}

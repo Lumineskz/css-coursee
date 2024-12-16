@@ -1,0 +1,6 @@
+@import "https://fonts.google.com/specimen/Poppins?query=poppins";
+body{
+    background-color: rgb(61, 61, 61);
+    color: white;
+    font-family: poppins;
+}

@@ -1,0 +1,26 @@
+body{
+    font-family: sans-serif;
+}
+*{
+margin:0px;
+padding:0px;
+}
+p{
+    /* border-style: dashed;
+    border-width: 3px;
+    border-color: brown; */
+    border: 3px dashed lightcoral;
+    margin: 50px 40px 20px 40px;
+    padding: 5px 10px 5px 10px;
+    width: 500px;
+    height: 100px;
+}
+
+.box1{
+    border: solid 3px green;
+    margin-top: 50px;
+}
+.box2{
+    border: solid 3px red;
+
+}

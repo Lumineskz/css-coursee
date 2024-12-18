@@ -1,0 +1,52 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+img{
+    padding: 10px;
+    float: left;
+   /*margin-right: 10px;*/
+}
+.container{
+    border: 5px orange solid;
+}
+/* .boxred{
+    background-color: lightpink;
+    border: red 2px solid;
+    float: left;
+}
+.boxgreen{
+    background-color: lightgreen;
+    border: rgb(9, 167, 9) 2px solid;
+    float: right;
+}
+.boxblue{
+    background-color: lightblue;
+    border: blue 2px solid;
+    float: left;
+} */
+ .box{
+    height: 100px;
+    width: 100px;
+    margin: 20px;
+    float: left;
+ }
+.foto{
+    padding: 10px;
+    float:left;
+}
+.clear{
+    clear: both;
+}
+.red{
+    background-color:pink;
+    border:red 2px solid;
+}
+.green{
+    background-color: lightgreen;
+    border: green 2px solid;
+}
+.blue{
+    background-color: lightblue;
+    border: blue 2px solid;
+}

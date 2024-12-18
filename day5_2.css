@@ -1,0 +1,41 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: sans-serif;
+    box-sizing: border-box;
+}
+.container{
+ margin: 0 auto;
+}
+.meow{
+    background-color: rgb(41, 41, 41);
+    width: 30%;
+    float: left;
+    color: rgb(0, 0, 0);
+    height: 40px;
+}
+.mew{
+    background-color: rgb(52, 52, 52);
+    width: 70%;
+    float: right;
+    height: 40px;
+}
+nav{
+     float: right;
+}
+nav ul{
+    list-style: none;
+}
+nav ul li{
+    display: inline-block;
+    margin: 10px;
+}
+a{
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    margin-right: 30px;
+    text-align: right;
+} 
+.clear{
+    clear: both;
+}
